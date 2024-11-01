@@ -47,8 +47,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ar4scode/ar4scode/output/snake.svg" alt="Snake animation" />
 
 ###
